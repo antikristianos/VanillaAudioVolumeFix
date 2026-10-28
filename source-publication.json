@@ -1,0 +1,79 @@
+{
+  "SchemaVersion": 1,
+  "Project": "VanillaAudioVolumeFix",
+  "Repository": "antikristianos/VanillaAudioVolumeFix",
+  "Branch": "main",
+  "Tag": "v1.1",
+  "ModVersion": "1.1",
+  "CollectionVersion": null,
+  "WorkshopId": 3800393907,
+  "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800393907",
+  "UploadManifestSha256": "6C26361960B1354B19FCE3208450D415B0A351C95202A22F0E7E73123673792F",
+  "Artifact": {
+    "Path": "mods/VanillaAudioVolumeFix/42.20/media/java/VanillaAudioVolumeFix.jar",
+    "Size": 7863,
+    "Sha256": "AF5342B2B41BAB3B36A4A0A8C36A767569514E3B4638DE04D6AEEE19B4787F81"
+  },
+  "Sources": [
+    {
+      "Path": ".gitignore",
+      "Size": 8,
+      "Sha256": "020C2606E8ED484089C2083E0BE438B9D0736BEE1558A6B76AF0D58BD23F69CF"
+    },
+    {
+      "Path": "MANIFEST.MF",
+      "Size": 159,
+      "Sha256": "79BCB26F6FA69C93B33398FD5054B973580EE39D02A5F09513212E1C73A2FD15"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1280,
+      "Sha256": "F032992C19B6BE58EA050E96F4FBE36E30D06825056BDA9D048F759368460B7B"
+    },
+    {
+      "Path": "build.json",
+      "Size": 1843,
+      "Sha256": "FADC1DC9FBCBC00422EB6741591A9A233252172D47B0A9D7998E5E1EF79B2DC6"
+    },
+    {
+      "Path": "build.ps1",
+      "Size": 2600,
+      "Sha256": "8389B7B0B5515387FA5D9B3989FED7C8629DA7762817C03AD266B69DE5B2B0FD"
+    },
+    {
+      "Path": "runtime/42.20/mod.info",
+      "Size": 656,
+      "Sha256": "3F900DAC6AE7922173D7A1D0569C3A6304FD52149284D186B69392AD59C85A6C"
+    },
+    {
+      "Path": "src/antikristianos/vanillaaudiovolumefix/AudioVolumeRuntime.java",
+      "Size": 4653,
+      "Sha256": "985A3CD70A064DC2DCFA8D5B20A496FF71C0FF3651653B78C01335B61A8F6CBE"
+    },
+    {
+      "Path": "src/antikristianos/vanillaaudiovolumefix/Main.java",
+      "Size": 467,
+      "Sha256": "C08AEFD15E6847B0EE025E0CE9E49C56F13CBF2A60BB6C310593E11388A1D1AD"
+    },
+    {
+      "Path": "src/antikristianos/vanillaaudiovolumefix/NonBankVolume.java",
+      "Size": 1484,
+      "Sha256": "307AAA3CD8AF6CC568439C47B4FC9794139867DCE139E6D15F781E4481D0E6D7"
+    },
+    {
+      "Path": "src/antikristianos/vanillaaudiovolumefix/PatchMusicClipVolume.java",
+      "Size": 527,
+      "Sha256": "B781AD5619D0B1C2C0C48AD813D054E00310CDFBFF75C98B3D101D03270C5DA9"
+    },
+    {
+      "Path": "src/antikristianos/vanillaaudiovolumefix/PatchSoundManagerUpdate.java",
+      "Size": 439,
+      "Sha256": "B970B5712CE48AF18233C33111205A71BA08DCD3129DE69A7D43F582F93A11C7"
+    },
+    {
+      "Path": "src/antikristianos/vanillaaudiovolumefix/VolumePolicy.java",
+      "Size": 901,
+      "Sha256": "DFC780CF5AE82BFE25624725C4B53FFF544B3F73B6CB7EAED5E4F277192BB5A9"
+    }
+  ]
+}
