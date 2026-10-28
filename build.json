@@ -1,0 +1,54 @@
+{
+  "JavaRelease": 17,
+  "JarName": "VanillaAudioVolumeFix.jar",
+  "AdditionalClasspath": [],
+  "Entries": [
+    {
+      "Path": "antikristianos/vanillaaudiovolumefix/AudioVolumeRuntime.class",
+      "Size": 4926,
+      "Sha256": "AB0BEFE35DB9331B7788E7D26147FFFE357BD9A52AC1C9F07574CD045BE87BF2"
+    },
+    {
+      "Path": "antikristianos/vanillaaudiovolumefix/Main.class",
+      "Size": 682,
+      "Sha256": "8B406BB522F115CD8C4B0D9C567DA575E51EE8E6F944B3903583BA9C6E72E697"
+    },
+    {
+      "Path": "antikristianos/vanillaaudiovolumefix/NonBankVolume$Sink.class",
+      "Size": 364,
+      "Sha256": "F8A5BD52BF592351D75EEC61F93345B0E98A4FF0EF189AC57E38EF74B954016A"
+    },
+    {
+      "Path": "antikristianos/vanillaaudiovolumefix/NonBankVolume.class",
+      "Size": 1677,
+      "Sha256": "8EAF737D149A415965F33838181F709BC3F6C03CBB466FC511D00C56A4B28C6C"
+    },
+    {
+      "Path": "antikristianos/vanillaaudiovolumefix/PatchMusicClipVolume.class",
+      "Size": 1107,
+      "Sha256": "1D32A8BE8CB4DA998D003CCD2F1FB0CA71E7896A58A9D29D60312843BE6E345D"
+    },
+    {
+      "Path": "antikristianos/vanillaaudiovolumefix/PatchSoundManagerUpdate.class",
+      "Size": 920,
+      "Sha256": "8232C7916130A6B91C325ABFE04787B823080F38CE01342A5B8B332BF705FFB8"
+    },
+    {
+      "Path": "antikristianos/vanillaaudiovolumefix/VolumePolicy.class",
+      "Size": 933,
+      "Sha256": "B8708A084830FEF649FFBE799C0E5B9A1731BAB4C579993F93C8094C1F330C1A"
+    }
+  ],
+  "Dependencies": [
+    {
+      "Path": "projectzomboid.jar",
+      "Size": 66254409,
+      "Sha256": "90C54B84EBC160AE053CBEFE30C7713826CA4FDB4934FDE53C9EBDE0FF9892F3"
+    },
+    {
+      "Path": "ZombieBuddy.jar",
+      "Size": 12491692,
+      "Sha256": "79120880FDA051718082BD9BF0C2C2B639450AE73641FDB4631750221A57B208"
+    }
+  ]
+}

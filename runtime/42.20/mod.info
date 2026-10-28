@@ -1,0 +1,12 @@
+name=[B42] Vanilla Audio Volume Fix (WIP)
+id=VanillaAudioVolumeFix_WIP
+author=Antikristianos
+description=External non-bank sounds follow the effects volume slider. Main-menu and loading music apply the current music volume a second time. The Play button and click-to-start effects apply the current effects volume a second time. Requires ZombieBuddy and a full game restart after enabling or disabling.
+icon=../common/icon.png
+require=\ZombieBuddy
+javaJarFile=media/java/VanillaAudioVolumeFix.jar
+javaPkgName=antikristianos.vanillaaudiovolumefix
+ZBVersionMin=2.3.2
+modversion=1.1
+versionMin=42.20.4
+incompatible=VanillaAudioVolumeFix
