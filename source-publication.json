@@ -3,12 +3,12 @@
   "Project": "VanillaAudioVolumeFix",
   "Repository": "antikristianos/VanillaAudioVolumeFix",
   "Branch": "wip",
-  "Tag": "wip-1.80",
+  "Tag": "wip-1.81",
   "ModVersion": "1.1",
-  "CollectionVersion": "1.80",
+  "CollectionVersion": "1.81",
   "WorkshopId": 3802764936,
   "WorkshopUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802764936",
-  "UploadManifestSha256": "C40AF9B59B6D599DBF4132FD357BA4C7187FF9922DADECF261FA4A433C859349",
+  "UploadManifestSha256": "7737F5DA54B12FFEB0391A45B0792D1920123C2905FBB6D421BE5D88F9E7CCA3",
   "Artifact": {
     "Path": "mods/VanillaAudioVolumeFix_WIP/42.20/media/java/VanillaAudioVolumeFix.jar",
     "Size": 7863,
@@ -33,7 +33,7 @@
     {
       "Path": "build.json",
       "Size": 1843,
-      "Sha256": "327158D3CCEC60BB00FD77256E26EA0D18F1F51BECF2D7826791EA055DDAAF68"
+      "Sha256": "74BFA90C739C61F1EAAB775B9C5A630B244F74A1CFEA55A3D1A9133693A1E167"
     },
     {
       "Path": "build.ps1",
